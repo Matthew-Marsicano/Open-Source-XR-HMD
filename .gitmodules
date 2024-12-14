@@ -1,0 +1,3 @@
+[submodule "src/luma.examples"]
+	path = src/luma.examples
+	url = https://github.com/rm-hull/luma.examples.git
